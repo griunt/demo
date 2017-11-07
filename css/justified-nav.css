@@ -1,0 +1,58 @@
+body {
+  padding-top: 20px;
+
+}
+.logo{
+  margin-bottom: 10px;
+}
+
+.abar{
+  display: block;
+  width: 20px;
+background: url('http://www.dgkqyy.cn/uploads/imgaes/2017/03/03/1488507358_logo_img.png') no-repeat  0% 50%;
+background-size:180px 30px;
+}
+.logo p {
+
+  float: right;
+  margin-top: -25px;
+/*  margin-right: 15px;*/
+}
+.logo a{
+  float: right;
+
+/*  padding-right : -50px;*/
+/*  z-index: 999;*/
+}
+.float{width:120px; height:230px; border:1px solid #ffecb0; background-color:#000;position:absolute; right:0px; top:250px;}
+.float a{
+  display: block;
+  background:url('http://kf.qycn.com/app/upload/support/201709/13_15052898078859.gif') no-repeat 50% 100%;
+  height: 230px;
+}
+.foot{
+  background: #4b4f4b;
+  height:38px;
+  text-align: center;
+}
+.foot ul{
+  list-style:none;
+  margin: 0px;
+  padding: 0px;
+  width: auto;
+
+}
+.foot ul li{
+  display: inline;
+  margin-left: 30px;
+
+}
+.foot ul li a {
+  text-decoration: none;
+  color: white;
+  border: 1px dashed pink;
+}
+
+.thumbnail a:first-child{
+  padding: 5px 6px;
+}
